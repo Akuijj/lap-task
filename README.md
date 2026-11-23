@@ -5,11 +5,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Name** | `[Your Full Name]` |
-| **Student ID** | `[Your Student ID]` |
-| **Section / Group** | `[Your Section]` |
-| **Lecturer** | `[Lecturer's Name]` |
-| **Date Submitted** | `[DD/MM/YYYY]` |
+| **Name** | `[ALI AMEEN ALI]` |
+| **Student ID** | `[BI230013]` |
+| **Section / Group** | `[S3]` |
+| **Lecturer** | `[Ts. Dr. Ahmad Tajudin Bin Baharin
+]` |
+| **Date Submitted** | `[23/11/2026]` |
 
 ---
 
